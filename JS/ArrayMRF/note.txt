@@ -1,5 +1,9 @@
 MRF in javascript 
 
+Higher order function can pass function as arguments,
+which reduce(coding like loops) 
+ 
+
 map()
 
 	map() iterates each value in array,
