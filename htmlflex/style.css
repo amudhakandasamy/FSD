@@ -42,5 +42,6 @@ body{
 /* Base style ends */
 .container{
   display: flex;
-  flex-direction: column-reverse;
+  /*flex-direction: column-reverse;*/
+  flex-wrap: wrap;
 }
